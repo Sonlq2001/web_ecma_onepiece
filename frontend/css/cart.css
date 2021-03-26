@@ -1,0 +1,271 @@
+.page-cart {
+  display: inline-block;
+  background-color: var(--backgroundMain);
+  padding: 0.5rem 2rem;
+}
+.page-cart__title {
+  color: #fff;
+  font-size: 1.8rem;
+  font-weight: 400;
+  display: inline-block;
+  margin-right: 1rem;
+}
+.page-cart__quantity {
+  font-size: 1.2rem;
+  color: #aaa;
+}
+.cart-title {
+  display: flex;
+  color: #fff;
+  font-size: 1.3rem;
+  background-color: var(--backgroundMain);
+  padding: 0.7rem 2rem;
+  border-bottom: 1px solid #aaa;
+}
+
+.cart-title__product {
+  width: 60%;
+}
+
+.cart-title__unit {
+  width: 15%;
+}
+.cart-title__quantity {
+  width: 15%;
+}
+.cart-title__total {
+  width: 10%;
+  text-align: right;
+}
+
+.list-cart {
+  background-color: var(--backgroundMain);
+  padding: 2rem;
+  color: #fff;
+  display: flex;
+}
+.list-cart__img {
+  max-width: 10rem;
+  height: 12rem;
+  margin-right: 2rem;
+}
+.cart-content {
+  width: 100%;
+  display: flex;
+}
+.cart-box {
+  width: 55%;
+  padding: 0 3rem 0 1rem;
+}
+.cart-box__name {
+  font-size: 1.4rem;
+  display: block;
+  margin-bottom: 1rem;
+  word-break: break-word;
+  font-weight: 350;
+}
+.remove-cart {
+  color: var(--main-color);
+  font-size: 1.2rem;
+  transition: 0.3s;
+  display: inline-block;
+  margin-top: 3rem;
+}
+.remove-cart:hover {
+  color: red;
+}
+.cart-control {
+  width: 45%;
+  display: flex;
+  justify-content: space-between;
+}
+.price-model {
+  font-size: 1.5rem;
+  word-break: break-word;
+  max-width: 12rem;
+}
+/* btn-finish */
+.finish-cart {
+  background-color: var(--backgroundMain);
+  color: #fff;
+  padding: 1.5rem;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 6rem;
+}
+.total-price {
+  display: flex;
+  margin-bottom: 4rem;
+}
+.total-price__title {
+  font-size: 1.6rem;
+  flex-grow: 1;
+}
+.total-price__value {
+  font-size: 1.7rem;
+  font-weight: 300;
+}
+.finish-box {
+  text-align: center;
+  margin-bottom: 2rem;
+  position: relative;
+}
+.finish-box__img {
+  max-width: 7rem;
+}
+.eye {
+  position: absolute;
+  display: inline-block;
+  width: 1.4rem;
+  height: 1.3rem;
+  background-color: red;
+  clip-path: ellipse(11% 29% at 42% 61%);
+  left: 45%;
+  top: 36%;
+  transform: rotate(120deg);
+  transition: 0.2s;
+  opacity: 0;
+}
+.eye-right {
+  left: 49%;
+  top: 34%;
+  transform: rotate(-120deg);
+}
+.btn-finish {
+  outline: none;
+  border: none;
+  width: 100%;
+  padding: 1rem 0;
+  font-size: 1.3rem;
+  color: #fff;
+  background-color: var(--main-color);
+  transition: 0.3s;
+  border-radius: 0.2rem;
+}
+.btn-finish:hover {
+  background-color: rgb(33, 90, 156);
+}
+.finish-cart:hover .eye {
+  opacity: 1;
+}
+
+.empty-cart {
+  margin: 2rem 0rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.btn-continue {
+  display: inline-block;
+  margin-top: 5rem;
+  color: #fff;
+  font-size: 1.6rem;
+  background-color: var(--main-color);
+  padding: 0.5rem 1.5rem;
+  transition: 0.3s;
+}
+.btn-continue:hover {
+  color: #fff;
+  background-color: rgb(33, 90, 156);
+}
+
+/* box info */
+.box-info {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1031;
+  display: none;
+}
+
+.form-info {
+  background-color: #fff;
+  max-width: 50rem;
+  margin: 0 auto;
+  padding: 2rem 5rem;
+  margin-top: 1.5rem;
+  position: relative;
+  animation: slide-box-model 0.4s;
+}
+
+@keyframes slide-box-model {
+  from {
+    opacity: 0;
+    top: -30rem;
+  }
+  to {
+    opacity: 1;
+    top: 0;
+  }
+}
+
+.form-title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+.form-des {
+  display: block;
+  font-size: 1.2rem;
+}
+.btn-close {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 1.4rem;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.btn-close:hover {
+  transform: rotate(180deg);
+}
+
+.form-group {
+  margin-top: 2rem;
+}
+.input-f {
+  outline: none;
+  border: 1px solid #bbb;
+  font-size: 1.4rem;
+  width: 100%;
+  height: 3.5rem;
+  padding: 0 1.5rem;
+  border-radius: 2px;
+}
+
+.title-save {
+  font-size: 1.1rem;
+  position: relative;
+  top: -2px;
+  display: inline-block;
+  margin-left: 0.5rem;
+}
+.form-group-btn {
+  text-align: right;
+}
+.btn-cancel,
+.btn-agree {
+  width: 10rem;
+  height: 3.5rem;
+  font-size: 1.5rem;
+  transition: 0.3s;
+  color: #fff;
+}
+.btn-cancel {
+  margin-right: 1rem;
+  background-color: rgb(247, 21, 21);
+}
+.btn-cancel:hover {
+  background: rgb(221, 13, 13);
+  color: #fff;
+}
+.btn-agree {
+  background-color: var(--main-color);
+}
+.btn-agree:hover {
+  background-color: rgb(33, 90, 156);
+  color: #fff;
+}

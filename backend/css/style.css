@@ -1,0 +1,46 @@
+.invalid input{
+    border: 1px solid red;
+    background-color: rgba(255, 0, 0, 0.2);
+}
+.invalid .error-message{
+    color: red;
+}
+.image-product{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
+.show-img-slide{
+    width: 350px;
+    height: 130px;
+    margin-top: 20px;
+}
+
+#form-search{
+    float: right;
+}
+
+#filter-product{
+    width: 300px;
+}
+
+.btn-status{
+    cursor: pointer;
+    color: red;
+    animation: statusOrder 0.5s linear infinite;
+}
+
+@keyframes statusOrder {
+    from {
+        opacity: 1;
+    } to {
+        opacity: 0;
+    }
+}
+.btn-status.active {
+    color: green;
+}
+
+.img-prd-order{
+    margin-right: 2rem;
+}

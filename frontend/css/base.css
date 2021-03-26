@@ -1,0 +1,14 @@
+:root {
+  --main-color: #347dbc;
+  --backgroundMain: rgb(37, 37, 37);
+  --sub-color: rgb(33, 90, 156);
+}
+
+* {
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}

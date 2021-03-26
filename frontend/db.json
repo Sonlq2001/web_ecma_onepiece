@@ -1,0 +1,693 @@
+{
+  "products": [
+    {
+      "name": "Mô Hình Trafalgar Law One Piece MS 11",
+      "cateId": "1",
+      "price": 650000,
+      "sale": "10",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fmo-hinh-trafalgar-law-one-piece-ms11.jpg?alt=media&token=7fe4c38b-cbb3-4606-8310-a4fc89f5b1e6",
+      "type_prd": "1",
+      "description": "Mô Hình Trafalgar Law One Piece MS 11, được thiết kế đẹp",
+      "status": [
+        "on"
+      ],
+      "id": 0.1712664576401155
+    },
+    {
+      "name": "Mô Hình Bartolomeo One Piece",
+      "cateId": "1",
+      "price": 390000,
+      "sale": "25",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fmo-hinh-bartolomeo-one-piece.jpg?alt=media&token=db457088-4158-4c10-a22a-eb1ab20b2820",
+      "type_prd": "1",
+      "description": "Mô Hình Bartolomeo One Piece, độ hoàn mĩ cao, chất lượng tốt",
+      "status": [
+        "on"
+      ],
+      "id": 0.6464541065008182
+    },
+    {
+      "name": "Mô hình Figuarts Zero - Marco Phoenix Ver - anime One Piece",
+      "cateId": "1",
+      "price": 3490000,
+      "sale": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2F19__2__f227616b71e04aaab78e1ccea5ef3ef8_grande.jpg?alt=media&token=301527ff-d63a-4de0-a0a1-2bb972e25e77",
+      "type_prd": "2",
+      "description": "Mô hình Figuarts Zero - Marco Phoenix Ver - anime One Piece, hàng đặc biệt, chất lượng cao",
+      "status": [
+        "on"
+      ],
+      "id": 0.21973077093292281
+    },
+    {
+      "name": "Mô Hình Charlotte Katakuri One Piece MS 2",
+      "cateId": "1",
+      "price": "820000",
+      "sale": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fmo-hinh-charlotte-katakuri-one-piece-ms2.jpg?alt=media&token=2f3aa2b2-4cc0-4750-82e8-30b652d4ce9a",
+      "type_prd": "2",
+      "description": "Mô Hình Charlotte Katakuri One Piece MS 2, với vẻ đẹp cool ngầu, chất lượng tốt",
+      "status": [
+        "on"
+      ],
+      "id": 0.48802437658175557
+    },
+    {
+      "name": "Vòng Tay Attack On Titan MS 6",
+      "cateId": "5",
+      "price": 342000,
+      "sale": "15",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fshingeki-no-kyojin-attack-on-titan-giant-bracelet-hand-rope-bracelet-student-long-paragraph-allen-accessory1.jpg?alt=media&token=16e7984e-3221-48cd-963f-8f7b406f1b1f",
+      "type_prd": "1",
+      "description": "Vòng Tay Attack On Titan MS 6, thiết kế mạnh mẽ, phù hợp với các bạn nam",
+      "status": [
+        "on"
+      ],
+      "id": 0.5516563721585805
+    },
+    {
+      "name": "Balo Luffy One Piece MS 2",
+      "cateId": "7",
+      "price": 560000,
+      "sale": "5",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fbalo-day-rut-one-piece.jpg?alt=media&token=ca033118-208e-4ed4-a1eb-d20d3014c814",
+      "type_prd": "1",
+      "description": "Balo Luffy One Piece MS 2, với hình ảnh nổi bât, chất liệu tốt",
+      "status": [
+        "on"
+      ],
+      "id": 0.9893790693101063
+    },
+    {
+      "name": "Đồng Hồ Báo Thức One Piece",
+      "cateId": "3",
+      "price": 670000,
+      "sale": "20",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fdong-ho-bao-thuc-one-piece.jpg?alt=media&token=0d6f453d-ed09-4453-8715-967b3ac33e65",
+      "type_prd": "1",
+      "description": "Đồng Hồ Báo Thức One Piece, trẻ trung yêu đời",
+      "status": [
+        "on"
+      ],
+      "id": 0.441433741539216
+    },
+    {
+      "name": "Giày Râu Trắng One Piece MS 5",
+      "cateId": "6",
+      "price": 1200000,
+      "sale": "10",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fgiay-rau-trang-one-piece-ms5.jpg?alt=media&token=2d945960-467d-409b-af08-562c63ba5fa9",
+      "type_prd": "1",
+      "description": "Giày Râu Trắng One Piece MS 5, thiết kế tinh sao",
+      "status": [
+        "on"
+      ],
+      "id": 0.2884436085826223
+    },
+    {
+      "name": "Đồng Hồ One Piece MS1",
+      "cateId": "3",
+      "price": "90000",
+      "sale": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fdong-ho-naruto-ms3.jpg?alt=media&token=d4cae6df-28dd-41bb-8282-0aba440df045",
+      "type_prd": "2",
+      "description": "Đồng Hồ One Piece MS1, mới nhất trên thị trường",
+      "status": [
+        "on"
+      ],
+      "id": 0.27275542370752937
+    },
+    {
+      "name": "Dây Chuyền Đồng Hồ One Piece MS 2",
+      "cateId": "3",
+      "price": 250000,
+      "sale": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fday-chuyen-dong-ho-one-piece-ms2.jpg?alt=media&token=ca5ad0a9-699e-47be-a78f-4654b62143ba",
+      "type_prd": "1",
+      "description": "Dây Chuyền Đồng Hồ One Piece MS 2, nhìn rất thích, mua ngay !!",
+      "status": [
+        "on"
+      ],
+      "id": 0.49358298094359765
+    },
+    {
+      "name": "Móc Khóa Albedo Overlord",
+      "cateId": "4",
+      "price": 50000,
+      "sale": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fmoc-khoa-albedo-overlord.jpg?alt=media&token=d6a7da4f-a7dd-4339-afe3-80baa86c9b4c",
+      "type_prd": "1",
+      "description": "Móc Khóa Albedo Overlord, đẹp cute",
+      "status": [
+        "on"
+      ],
+      "id": 0.4850614939698432
+    },
+    {
+      "name": "Áo thun anime Bungo Stray Dogs",
+      "cateId": "2",
+      "price": 450000,
+      "sale": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2F1_a74441a97d2844c5958267d497fba228_grande.jpg?alt=media&token=ff8da725-b7a6-4ae4-a5d5-776e4b3468cb",
+      "type_prd": "1",
+      "description": "Áo thun anime Bungo Stray Dogs, chất liệu tốt mặc thoáng mát",
+      "status": [
+        "on"
+      ],
+      "id": 0.8757258724300669
+    },
+    {
+      "name": "Ví One Piece MS1",
+      "cateId": "8",
+      "price": 320000,
+      "sale": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2F0704161723.jpg?alt=media&token=87e85d4c-b2dc-433d-b74e-3b92b2b9d45d",
+      "type_prd": "1",
+      "description": "Ví One Piece MS1, thiết kế bằng da, chống mồ hôi tay",
+      "status": [
+        "on"
+      ],
+      "id": 0.6130660853363019
+    },
+    {
+      "name": "Dây chuyền đồng hồ anime One Piece",
+      "cateId": "5",
+      "price": "100000",
+      "sale": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2F62__7__a4e8b55e64ae44c98f040a13c8a26211_grande.jpg?alt=media&token=c44337ae-2684-4419-8f79-64da01e6182d",
+      "type_prd": "2",
+      "description": "Dây chuyền đồng hồ anime One Piece, đơn giản tinh tế",
+      "status": [
+        "on"
+      ],
+      "id": 0.8549565281373068
+    },
+    {
+      "name": "Mô hình Portgas D. Ace - Master Stars Piece - The Revival - anime One Piece",
+      "cateId": "1",
+      "price": 300000,
+      "sale": null,
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2F24_68a770a6a2244caabd3a6eb7e5858762_grande.jpg?alt=media&token=c5e71e9f-e263-477e-a15d-f0a70888aebe",
+      "type_prd": "2",
+      "description": "Mô hình Portgas D. Ace - Master Stars Piece - The Revival - anime One Piece, thích hợp trưng bày trên tủ hoặc trên bàn làm việc",
+      "status": [
+        "on"
+      ],
+      "id": 0.3141730914177887
+    },
+    {
+      "name": "Balo anime One Piece - Mẫu 7",
+      "cateId": "7",
+      "price": 400000,
+      "sale": null,
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2F41_a4b1404da9594c19ad5523fbd627c60b_grande.jpg?alt=media&token=b5daa57b-d162-4b72-83df-892d46a5ae83",
+      "type_prd": "2",
+      "description": "Balo anime One Piece - Mẫu 7, thích hợp đi học và đi chơi",
+      "status": [
+        "on"
+      ],
+      "id": 0.15704087839594072
+    },
+    {
+      "name": "Bóp viết anime One Piece - Mẫu 2",
+      "cateId": "8",
+      "price": 70000,
+      "sale": null,
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2F4a_3919ad477b034096971267b952251954_grande.jpg?alt=media&token=64a94b25-6275-404a-a282-b139c85b1310",
+      "type_prd": "2",
+      "description": "Bóp viết anime One Piece - Mẫu 2, chất lượng tốt, giá thành vừa phải",
+      "status": [
+        "on"
+      ],
+      "id": 0.3058030063667543
+    },
+    {
+      "name": "Đồng hồ quả quýt anime Fairy Tail",
+      "cateId": "3",
+      "price": 150000,
+      "sale": null,
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2F1a_8b6a859e1a6b4f49910851ed98d14260_grande.jpg?alt=media&token=f6bee0b9-4ecb-432c-b7e3-0c764f4829b5",
+      "type_prd": "2",
+      "description": "Đồng hồ quả quýt anime Fairy Tail, trẻ trung năng động hợp với các bạn trẻ thích sự mạo hiểm",
+      "status": [
+        "on"
+      ],
+      "id": 0.1633737562902131
+    },
+    {
+      "name": "Bút Mực One Piece MS 2",
+      "cateId": "7",
+      "price": 50000,
+      "sale": null,
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fbut-muc-one-piece-ms2.jpg?alt=media&token=0eb397a3-dc84-4670-bce6-6db00cdea019",
+      "type_prd": "2",
+      "description": "Bút Mực One Piece MS 2, in hình luffy, có nhiều kiểu để bạn chọn",
+      "status": [
+        "on"
+      ],
+      "id": 0.9204927528555111
+    },
+    {
+      "name": "Móc Khóa Luffy Gear 4 - One Piece",
+      "cateId": "4",
+      "price": 15000,
+      "sale": null,
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fmoc-khoa-luffy-gear-4-one-piece.jpg?alt=media&token=5f3f89c0-4607-4f73-95b4-90ec7b327d4e",
+      "type_prd": "2",
+      "description": "Móc Khóa Luffy Gear 4 - One Piece, kích thước nhỏ phù hợp để móc chìa khóa hoặc cặp sách",
+      "status": [
+        "on"
+      ],
+      "id": 0.8518425991686043
+    },
+    {
+      "name": "Dây Chuyền Mihawk - One Piece MS 3",
+      "cateId": "5",
+      "price": 120000,
+      "sale": null,
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fday-chuyen-mihawk-one-piece-ms3.jpg?alt=media&token=f8e51c32-e720-41a2-b9a6-103b9a79609c",
+      "type_prd": "2",
+      "description": "Dây Chuyền Mihawk - One Piece MS 3, vẻ đẹp viên mã từ cây kiếm",
+      "status": [
+        "on"
+      ],
+      "id": 0.9590538057633105
+    },
+    {
+      "name": "Vòng Tay Đồng Hồ One Piece",
+      "cateId": "3",
+      "price": "2200000",
+      "sale": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fvong-tay-dong-ho-one-piece.jpg?alt=media&token=b420a5ee-ce89-48cc-ae07-15612a1de56a",
+      "type_prd": "2",
+      "description": "Vòng Tay Đồng Hồ One Piece, được thiết kế kĩ sảo tinh tế",
+      "status": [
+        "on"
+      ],
+      "id": 0.1388324773520988
+    }
+  ],
+  "categories": [
+    {
+      "name": "Mô hình ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fmo-hinh-sabo.jpg?alt=media&token=6802814e-17a7-4d5d-8d2e-8ce0ac699b01",
+      "description": "Mô hình các nhân vật",
+      "id": 1
+    },
+    {
+      "name": "Áo - trang phục",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fao-khoac.jpg?alt=media&token=e37a1df5-c12c-4bf1-95b2-22f1dcd62aac",
+      "description": "Áo , phụ kiện, thời trang ",
+      "id": 2
+    },
+    {
+      "name": "Đồng hồ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fdong-ho-naruto-ms3.jpg?alt=media&token=3d160ecc-a494-4444-bb5a-79425d3366f7",
+      "description": "Đồng hồ thời trang",
+      "id": 3
+    },
+    {
+      "name": "Móc khóa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fmoc-khoa-zoro-one-piece-ms4.jpg?alt=media&token=445ad215-ad77-4ce4-8741-a73dffe1a2d9",
+      "description": "Móc khóa, phụ kiện",
+      "id": 4
+    },
+    {
+      "name": "Trang sức",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fnew-fashion-anime-jewelry-tokyo-ghoul-cross-shape-necklace-stainless-steel-pendant-necklaces-christmas-gift.jpg?alt=media&token=e741bb75-acb3-4fa8-b229-22d60ea30480",
+      "description": "Trang sức one piece",
+      "id": 5
+    },
+    {
+      "name": "Giầy - dép",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fgiay-rau-trang-one-piece-ms5.jpg?alt=media&token=df036fa5-eb0b-4b1f-8045-4296baff30cd",
+      "description": "Giầy dép one piece",
+      "id": 6
+    },
+    {
+      "name": "Balo - dụng cụ học tập",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fbalo-day-rut-one-piece.jpg?alt=media&token=33e16efd-a408-48db-82dc-2f7a78826afb",
+      "description": "Balo - dụng cụ học tập",
+      "id": 7
+    },
+    {
+      "name": "Bóp - ví",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2F0704161716.jpg?alt=media&token=207f6870-eeb4-4564-8856-bed8c70e4d3f",
+      "description": "Bóp ví one piece",
+      "id": 8
+    }
+  ],
+  "user": [
+    {
+      "name": "admin",
+      "phone": "0394570202",
+      "email": "sonweb2001@gmail.com",
+      "password": "admin",
+      "file": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2F19__2__f227616b71e04aaab78e1ccea5ef3ef8_grande.jpg?alt=media&token=301527ff-d63a-4de0-a0a1-2bb972e25e77",
+      "statusCart": false,
+      "role": 1,
+      "id": 1
+    },
+    {
+      "name": "Sonel",
+      "phone": "1234",
+      "email": "a@gmail.com",
+      "password": "sonel",
+      "file": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fbalo-day-rut-one-piece.jpg?alt=media&token=ca033118-208e-4ed4-a1eb-d20d3014c814",
+      "statusCart": true,
+      "role": 2,
+      "id": 2
+    },
+    {
+      "name": "t",
+      "phone": "1234",
+      "email": "s@gmail.com",
+      "password": "1",
+      "file": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Ffire.png?alt=media&token=a0967802-fbaa-421e-8b42-192d96ae9b73",
+      "statusCart": false,
+      "role": 2,
+      "id": 3
+    }
+  ],
+  "order": [
+    {
+      "id": 0.7066788933531682,
+      "customerId": 1,
+      "timeOrder": "16:27/5/3/2021",
+      "name": "Mô hình 1",
+      "phone": "1234",
+      "capital": "Hà Nội",
+      "district": "Đan Phương",
+      "commune": "Liên Hồng",
+      "address_detail": "fasdf",
+      "save_info": ""
+    },
+    {
+      "id": 0.3199510158531822,
+      "customerId": 2,
+      "timeOrder": "21:19/6/3/2021",
+      "name": "Lê Quang Sơn",
+      "phone": "0394570202",
+      "capital": "Hà Nội",
+      "district": "Đan Phương",
+      "commune": "Đồng Tháp",
+      "address_detail": "Xóm nhà thờ, đồng vân ",
+      "save_info": ""
+    },
+    {
+      "id": 0.8276486461464996,
+      "customerId": 2,
+      "timeOrder": "9:29/7/3/2021",
+      "name": "lê thanh hải",
+      "phone": "34566346",
+      "capital": "Hải Phòng",
+      "district": "Hoài Đức",
+      "commune": "Liên Hồng",
+      "address_detail": "Xóm nhà thờ, đồng vân ",
+      "save_info": ""
+    },
+    {
+      "id": 0.7894369414839217,
+      "customerId": 2,
+      "timeOrder": "9:56/7/3/2021",
+      "name": "m",
+      "phone": "1234",
+      "capital": "Hải Phòng",
+      "district": "Hoài Đức",
+      "commune": "Liên Hồng",
+      "address_detail": "fasdf",
+      "save_info": ""
+    },
+    {
+      "id": 0.15447179544076017,
+      "customerId": 1,
+      "timeOrder": "13:1/26/3/2021",
+      "name": "hom nay",
+      "phone": "0394570202",
+      "capital": "Hà Nội",
+      "district": "Đan Phương",
+      "commune": "Đồng Tháp",
+      "address_detail": "Xóm nhà thờ, đồng vân ",
+      "save_info": ""
+    }
+  ],
+  "order-detail": [
+    {
+      "idOrder": 0.7066788933531682,
+      "idPrd": 0.9893790693101063,
+      "unitPrice": 560000,
+      "quantity": 1,
+      "status": 1,
+      "id": 1
+    },
+    {
+      "idOrder": 0.7066788933531682,
+      "idPrd": 0.441433741539216,
+      "unitPrice": 670000,
+      "quantity": 3,
+      "status": 1,
+      "id": 2
+    },
+    {
+      "idOrder": 0.7066788933531682,
+      "idPrd": 0.5516563721585805,
+      "unitPrice": 342000,
+      "quantity": 1,
+      "status": 1,
+      "id": 3
+    },
+    {
+      "idOrder": 0.3199510158531822,
+      "idPrd": 0.5516563721585805,
+      "unitPrice": 342000,
+      "quantity": 2,
+      "status": 1,
+      "id": 4
+    },
+    {
+      "idOrder": 0.3199510158531822,
+      "idPrd": 0.9893790693101063,
+      "unitPrice": 560000,
+      "quantity": 2,
+      "status": 1,
+      "id": 5
+    },
+    {
+      "idOrder": 0.8276486461464996,
+      "idPrd": 0.9893790693101063,
+      "unitPrice": 560000,
+      "quantity": 1,
+      "status": 1,
+      "id": 6
+    },
+    {
+      "idOrder": 0.8276486461464996,
+      "idPrd": 0.5516563721585805,
+      "unitPrice": 342000,
+      "quantity": 2,
+      "status": 1,
+      "id": 7
+    },
+    {
+      "idOrder": 0.7894369414839217,
+      "idPrd": 0.27275542370752937,
+      "unitPrice": "90000",
+      "quantity": 1,
+      "status": 1,
+      "id": 8
+    },
+    {
+      "idOrder": 0.7894369414839217,
+      "idPrd": 0.4850614939698432,
+      "unitPrice": 50000,
+      "quantity": 1,
+      "status": 1,
+      "id": 9
+    },
+    {
+      "idOrder": 0.15447179544076017,
+      "idPrd": 0.5516563721585805,
+      "unitPrice": 342000,
+      "quantity": 1,
+      "status": 1,
+      "id": 10
+    },
+    {
+      "idOrder": 0.15447179544076017,
+      "idPrd": 0.9893790693101063,
+      "unitPrice": 560000,
+      "quantity": 1,
+      "status": 1,
+      "id": 11
+    }
+  ],
+  "slides": [
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2FUntitled-3.jpg?alt=media&token=df11baa4-ca4b-4e24-94fe-d68dfcd9f3eb",
+      "path_img": "https://shopee.vn/user/purchase/list/?type=6",
+      "id": 1
+    },
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2FUntitled-1.jpg?alt=media&token=f802334a-e80a-467f-ab85-14b46b09b183",
+      "path_img": "https://www.youtube.com/watch?v=Qo4JIT8jMtI&t=9752s",
+      "id": 2
+    },
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2FUntitled-2.jpg?alt=media&token=903d36f9-ab1d-4f01-95ba-43e86c3f24fe",
+      "path_img": "https://www.youtube.com/watch?v=Qo4JIT8jMtI&t=9752s",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "idUser": 2,
+      "idPrd": "0.6464541065008182",
+      "content": "Sản phẩm đẹp, giá thành cũng ok",
+      "timeCmt": "21:22/6/3/2021 ",
+      "id": 1
+    },
+    {
+      "idUser": 1,
+      "idPrd": "0.8518425991686043",
+      "content": "Móc khóa đẹp quá, mình rất ưng sản phẩm này",
+      "timeCmt": "9:22/7/3/2021 ",
+      "id": 2
+    },
+    {
+      "idUser": 2,
+      "idPrd": "0.8518425991686043",
+      "content": "Rất đẹp mà còn giá cả hợp lý nữa.",
+      "timeCmt": "9:23/7/3/2021 ",
+      "id": 3
+    },
+    {
+      "idUser": 2,
+      "idPrd": "0.27275542370752937",
+      "content": "địt mẹ thằng bên phải",
+      "timeCmt": "12:22/15/3/2021 ",
+      "id": 4
+    }
+  ],
+  "orderSave": [
+    {
+      "idUser": 2,
+      "name": "Vòng Tay Attack On Titan MS 6",
+      "cateId": "5",
+      "price": 342000,
+      "sale": "15",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fshingeki-no-kyojin-attack-on-titan-giant-bracelet-hand-rope-bracelet-student-long-paragraph-allen-accessory1.jpg?alt=media&token=16e7984e-3221-48cd-963f-8f7b406f1b1f",
+      "type_prd": "1",
+      "description": "Vòng Tay Attack On Titan MS 6, thiết kế mạnh mẽ, phù hợp với các bạn nam",
+      "status": [
+        "on"
+      ],
+      "id": 0.5516563721585805,
+      "quantity": 2
+    },
+    {
+      "idUser": 2,
+      "name": "Balo Luffy One Piece MS 2",
+      "cateId": "7",
+      "price": 560000,
+      "sale": "5",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fbalo-day-rut-one-piece.jpg?alt=media&token=ca033118-208e-4ed4-a1eb-d20d3014c814",
+      "type_prd": "1",
+      "description": "Balo Luffy One Piece MS 2, với hình ảnh nổi bât, chất liệu tốt",
+      "status": [
+        "on"
+      ],
+      "id": 0.9893790693101063,
+      "quantity": 1
+    }
+  ],
+  "categories-post": [
+    {
+      "cate_post": "Tâm sự cùng người lạ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fluffy.png?alt=media&token=8115b570-3d83-4500-9d7c-2571c98a8029",
+      "description": "Tâm sự cùng nhau",
+      "id": "llnb13ecy"
+    },
+    {
+      "cate_post": "Mua bán sản phẩm cũ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fdong-ho-bao-thuc-one-piece.jpg?alt=media&token=5cb51e16-61a6-4fd5-b550-7daef02381b2",
+      "description": "Mua bán sản phẩm cũ",
+      "id": "p8e7hr7rr"
+    },
+    {
+      "cate_post": "Chương trình khuyến mãi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Flogin.png?alt=media&token=7cded6a1-44d9-495a-ac68-d61949a24519",
+      "description": "Chương trình khuyến mãi",
+      "id": "ai7f2wrzg"
+    }
+  ],
+  "posts": [
+    {
+      "idCatePost": "ai7f2wrzg",
+      "header_post": "SIÊU HOT: Shop One Piece KHUYẾN MÃI 15% – 20% SẢN PHẨM 2/9/2021",
+      "des_post": "Chắc hẳn các bạn cũng đang chuẩn bị vào năm học rồi đúng không nào ? Mọi người đã chuẩn bị hết các đồ dùng học tập chưa nào",
+      "preamble_post": "Nhân ngày đầu các bạn nhập học, shop chúng tôi sẽ giảm giá hết các sản phẩm để phục vụ nhu cầu của các bạn. Chúng tôi có các mẫu mã đẹp mới nhập về như balo, áo, móc khóa",
+      "image_post": [
+        "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2F41_a4b1404da9594c19ad5523fbd627c60b_grande.jpg?alt=media&token=6dd229d5-6977-47d9-a6b9-c185452d8874",
+        "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2F1_a74441a97d2844c5958267d497fba228_grande.jpg?alt=media&token=eb86d27f-7bfa-49ca-8d2f-6b0ec599a792"
+      ],
+      "content_post": "Chương trình khuyến mãi chỉ diễn ra trong đúng 1 tuần các bạn hãy nhanh tay, nên nào để không bỏ lỡ cho mình những cơ hôi hấp dẫn. Có rât nhiều phần quà hấp rất đang đón chờ bạn. Các sản phẩm phù hợp với giá học sinh",
+      "footer_post": "Cùng sắp cho mình những trang phục mới, đồ dùng để khoe với bạn bè, thầy cô và mọi người nào ?",
+      "id": "jzovevig9",
+      "timePost": "21:9/6/3/2021",
+      "idUser": 1
+    },
+    {
+      "id": "39fmrmido",
+      "idCatePost": "p8e7hr7rr",
+      "idUser": 2,
+      "header_post": "Cần mua đồng hồ báo thức One piece mới khoảng 80% trở lên với giá cao",
+      "content_post": "Hiên tại mình cần mua 1 cái đồng hồ one piece giống như trong hình ảnh bên dưới với giá cả hấp dẫn. Bạn nào có liên hệ cho mình. Để cho mình kiểm tra sản phẩm trước đã, nếu mình thấy ok thì chốt kèo ngay !!!\nUy tính 100%",
+      "timePost": "21:10/6/3/2021",
+      "image_post": [
+        "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fdong-ho-bao-thuc-one-piece.jpg?alt=media&token=a85dbb1b-e717-43b3-9321-696a37943e48"
+      ]
+    },
+    {
+      "id": "dg25de4qx",
+      "idCatePost": "p8e7hr7rr",
+      "idUser": 2,
+      "header_post": "Cần bán gấp cặp sách onepiece mới dùng được vài lần !",
+      "content_post": "Hiện tại là mình có 1 cái cặp sách onepiece như hình vẫn mới, muốn bán lại cho bạn nào có nhu cầu. Hàng đẹp chất lượng đảm bảo luôn, có gì liên hệ đảm bảo với chất lượng với giá thành luôn nha. Liên hệ với mình ngay để có bất ngờ từ mình nào 0394570202",
+      "timePost": "21:14/6/3/2021",
+      "image_post": [
+        "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2Fbalo-day-rut-one-piece.jpg?alt=media&token=67f222d6-8ad4-4750-9ff3-3c19d0aef05c"
+      ]
+    },
+    {
+      "id": "zpidrj7zo",
+      "idCatePost": "llnb13ecy",
+      "idUser": 2,
+      "header_post": "sadf",
+      "content_post": "ádf",
+      "timePost": "9:28/7/3/2021",
+      "image_post": [
+        "https://firebasestorage.googleapis.com/v0/b/one-piece-shop.appspot.com/o/images%2F272-2727925_continue-shopping-empty-cart-png-transparent-png.jpg?alt=media&token=604306d5-badc-4dd5-81c1-242eb99cef4e"
+      ]
+    }
+  ],
+  "feedback": [
+    {
+      "name": "Lê Quang Sơn",
+      "phone": "0394570202",
+      "email": "sonweb2001@gmail.com",
+      "content": "Tôi rất hài lòng về dịch vụ !",
+      "id": "j4oeg4s3m",
+      "idUser": 2,
+      "timeFb": "21:39/6/3/2021"
+    },
+    {
+      "name": "Lê Thị Thu Hương",
+      "phone": "0394570202",
+      "email": "thuhuong98zzbaby@gmail.com",
+      "content": "Nhân viện hỗ trợ rất tận tình, tôi rất hài lòng",
+      "id": "mqez71y4h",
+      "idUser": 2,
+      "timeFb": "21:40/6/3/2021"
+    }
+  ]
+}
